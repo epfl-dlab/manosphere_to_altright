@@ -1,0 +1,20 @@
+Data Collection Log			
+Step	Community	Source	Comment
+1	MGTOWs	https://web.archive.org/web/20190402120454/https://steemit.com/mgtow/@kriscantu/top-10-mgtow-channels-on-youtube-video-reviews	This is a blog post from someone who used to be an MGTOW YouTuber. 
+2	MGTOWs	https://web.archive.org/web/20190402122354/https://www.mgtow.com/channels/	This is a list of featured channels on a widely popular MGTOW website, with a very active forum. We consider one of the channels in the list to be “not MGTOW enough”, which is Black Pidgeon Speaks, this channels talks mostly about “The West”, “The Great Replacement” and other white supremacist themes. 
+3	MGTOWs	Youtube Search	red pill, MGTOW, hypergamy
+4	MGTOWs	Featured and recommended channels from sources 1 to 3	We manually crawled through the related and featured channels menu for each of the channels. We report channels added this way according to the first occurrence. 
+5	MGTOWs	Featured and recommended channels from sources 4	We repeat step 4 for the channels obtained in step 4
+6	PUAs	https://web.archive.org/web/20190402144913/https://www.reddit.com/r/seduction/comments/27mnyf/lets_make_a_list_of_good_youtube_channels_for/	This is a reddit post featuring some popular PUA channels.
+7	PUAs	https://web.archive.org/web/20190403004630/https://rationalwiki.org/wiki/Pick-up_artist	This is a wiki about internet culture which mentions several PUAs.
+8	PUAs	Youtube Search	daygame, Indicator of Interest, PUA
+9	PUAs	Featured and recommended channels from sources 8 to 10	We manually crawled through the related and featured channels menu for each of the channels. We report channels added this way according to the first occurrence. 
+10	PUAs	Featured and recommended channels from source 11	We repeat step 9 for the channels obtained in step 9.
+11	Incels	https://web.archive.org/web/20190403045919/https://incels.wiki/w/Template:Incel_Vloggers	This is a wiki entry about incels which mentions several Incel Vloggers.
+12	Incels	https://web.archive.org/web/20190405154231/https://www.youtube.com/watch?v=6wEchPadQ_I	This is a youtube video mentioning some incel channels. In some cases the channels do not exist, but "mirror" channels do.
+13	Incels	Youtube Search	black pill, incels, looksmax
+14	Incels	Featured and recommended channels from sources 11 to 13	We manually crawled through the related and featured channels menu for each of the channels. We report channels added this way according to the first occurrence.
+15	MRAs	https://web.archive.org/web/20190405201921/https://www.imdb.com/title/tt3686998/fullcredits	This is the cast of the movie "The Red Pill", where many proponents of the MRA movement are interviewed.
+16	MRAs	https://web.archive.org/web/20190405202610/https://www.abc.net.au/triplej/programs/hack/meet-the-honey-badgers-who-say-women-are-oppressing-men/8615184	This is a news-piece on proeminent female MRA vloggers on YouTube.
+17	MRAs	Youtube Search	mra, men's rights, father's right
+18	MRAs	Featured and recommended channels from sources 15 to 18	We manually crawled through the related and featured channels menu for each of the channels. We report channels added this way according to the first occurrence.
